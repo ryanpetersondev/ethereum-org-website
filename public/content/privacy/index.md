@@ -20,7 +20,7 @@ By default, every transaction written on Ethereum is public and permanent. This 
 
 Mixers break the link between senders and recipients by putting many users' transactions into a shared "pool" and then letting people withdraw later to a fresh address. Since deposits and withdrawals are jumbled together, it's much harder for observers to connect them.
 
-_Examples: [PrivacyPools](https://docs.privacypools.com/), [Tornado Cash](https://tornado.cash/)_
+_Examples: [PrivacyPools](https://docs.privacypools.com/), [Tornado Cash](https://tornadoapp.cash/en/)_
 
 ### Shielded Pools {#shielded-pools}
 
